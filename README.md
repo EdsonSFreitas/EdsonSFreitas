@@ -9,7 +9,7 @@
 
 Sou analista de suporte Sênior e estou estudando Java para migrar de área.
 
-- ❤ Me considero auto didata por ter facilidade em adquirir novos conhecimentos buscando contéudo em diversas fontes
+- ❤ Eu realmente gosto de estudar e aplicar novas tecnologias, me considero autodidata em diversos tipos de conhecimento.
 - 💙 Fã da Udemy, Alura e diversas outras plataformas de ensino online
 - 👩‍💻 Estou focado em melhorar meu conhecimento sobre back-end e DevOps
 
