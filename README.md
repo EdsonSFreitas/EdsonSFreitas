@@ -2,7 +2,7 @@
 
 # ❤ Olá, seja bem vindo ao meu cafofo digital!
   <div id="badges">
-  <a href = "https://github.com/EdsonSFreitas">
+  <a href = "[https://github.com/EdsonSFreitas](https://www.linkedin.com/in/edson-s-freitas/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
