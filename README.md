@@ -10,7 +10,7 @@
 Sou analista de suporte Sênior e estou migrando para back-end Java Jr.
 
 - ❤ Eu realmente gosto de estudar e aplicar novas tecnologias, me considero autodidata em diversos tipos de conhecimento.
-- 💙 Fã da Udemy, Alura e diversas outras plataformas de ensino online
+- 💙 Realizo diversos cursos da Udemy, Alura e diversas outras plataformas de ensino online
 - 👩‍💻 Estou focado em melhorar meu conhecimento sobre back-end e DevOps
 
 <div>
