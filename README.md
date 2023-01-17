@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou analista de suporte Sênior e estou estudando Java para migrar de área.
+Sou analista de suporte Sênior e estou migrando para back-end Java Jr.
 
 - ❤ Eu realmente gosto de estudar e aplicar novas tecnologias, me considero autodidata em diversos tipos de conhecimento.
 - 💙 Fã da Udemy, Alura e diversas outras plataformas de ensino online
@@ -23,6 +23,6 @@ Sou analista de suporte Sênior e estou estudando Java para migrar de área.
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonSFreitas&show_icons=true&theme=merko&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=EdsonSFreitas&show_icons=true&show_icons=true&theme=merko&count_private=true" />
+<img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EdsonSFreitas&theme=react&line_height=40&hide=css"/>
+<img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdsonSFreitas&show_icons=true&show_icons=true&theme=merko&count_private=true" />
 </div>
