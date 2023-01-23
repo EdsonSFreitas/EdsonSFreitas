@@ -23,6 +23,8 @@ Sou analista de suporte Sênior e estou migrando para back-end Java Jr.
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonSFreitas&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonSFreitas&show_icons=true&theme=bear&theme=transparent"/>
+                                                                                                                                                      ![Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+                                                                                                                                                      
 <img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdsonSFreitas&show_icons=true&show_icons=true&theme=merko&count_private=true" />
 </div>
