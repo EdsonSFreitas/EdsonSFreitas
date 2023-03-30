@@ -1,4 +1,4 @@
-<img src = "dev.gif" width = "325px" align = "right">
+<img src = "dev.gif" width = "225px" align = "right">
 
 # ❤ Olá, seja bem vindo ao meu cafofo digital!
   <div id="badges">
