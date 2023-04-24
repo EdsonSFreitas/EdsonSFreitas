@@ -1,6 +1,6 @@
 <img src = "dev.gif" width = "225px" align = "right">
 
-# ❤ Olá, seja bem vindo ao meu cafofo digital!
+# Olá, seja bem vindo!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/edson-s-freitas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
