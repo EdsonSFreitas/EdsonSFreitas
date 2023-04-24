@@ -10,7 +10,8 @@
 Sou um Analista de Suporte Sênior e atualmente estou fazendo a transição para o papel de Desenvolvedor Back-End Java Júnior. 
 
 - ❤ Tenho o hábito de estudar e aplicar novas tecnologias e me considero autodidata na área de TI.
-- 💙 Faço cursos na Udemy, Alura, DIO e outras plataformas de ensino online para aprender e praticar as rotinas de um desenvolvedor back-end. Estou focado em melhorar meus conhecimentos em back-end, incluindo banco de dados relacionais, APIs e outros conhecimentos comuns para desenvolvedores dessa área. 
+- 💙 Com dedicação e comprometimento, concluí diversos cursos na Udemy, Alura, DIO e outras plataformas de ensino online, nos quais adquiri conhecimentos sólidos em desenvolvimento back-end. Durante esses cursos, pratiquei rotinas comuns de um desenvolvedor, como a criação de APIs RESTful, integração com bancos de dados relacionais, além de ter trabalhado com frameworks renomados como Spring, Hibernate e JPA. Com esses conhecimentos, estou preparado para contribuir em projetos desafiadores e em constante evolução.
+-  Estou focado em melhorar meus conhecimentos em back-end, incluindo banco de dados relacionais, APIs e outros conhecimentos comuns para desenvolvedores dessa área. 
 - 👩‍💻 Na área de DevOps, já implementei vários sistemas durante minha experiência como Sênior em Infraestrutura.
 
 <div>
