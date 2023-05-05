@@ -7,7 +7,7 @@
   </a>
 </div>
 
-Sou Desenvolvedor Back-End Java mas migrei dá área de infra na qual eu atuava como Analista de Suporte Sênior
+Sou Desenvolvedor Back-End Java pós migrar dá área de infra na qual eu atuava como Analista de Suporte Sênior por mais de 5 anos.
 
 - ❤ Tenho o hábito de estudar e aplicar novas tecnologias e me considero autodidata na área de TI.
 - 💙 Com dedicação e comprometimento, concluí diversos cursos na Udemy, Alura, DIO e outras plataformas de ensino online, nos quais adquiri conhecimentos sólidos em desenvolvimento back-end. Durante esses cursos, pratiquei rotinas comuns de um desenvolvedor, como a criação de APIs RESTful, integração com bancos de dados relacionais, além de ter trabalhado com frameworks renomados como Spring, Hibernate e JPA. Com esses conhecimentos, estou preparado para contribuir em projetos desafiadores e em constante evolução.
