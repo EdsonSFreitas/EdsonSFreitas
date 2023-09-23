@@ -14,7 +14,7 @@ Sou Desenvolvedor Back-End Java após migrar dá área de infra na qual eu atuav
 - 💙 Uso Linux no meu Desktop há mais de 20 anos e implantei centenas de servidores com Linux na minha jornada profissional.
 - Tenho conhecimento nível intermediário do idioma Inglês e sou capaz de manter uma conversa nesse idioma mas meu ponto forte é leitura e escrita.
 - Tenho o hábito de estudar e aplicar novas tecnologias e me considero autodidata na área de TI.
-
+<!--
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -25,15 +25,21 @@ Sou Desenvolvedor Back-End Java após migrar dá área de infra na qual eu atuav
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
 </div>
+-->
 
----
+
+***
+## 🛠 &nbsp;Tech Stack
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📊 &nbsp;Stats
+
+<h3 align="left">GitHub Stats</h3>
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdsonSFreitas&show_icons=true&show_icons=true&theme=merko&count_private=true" />
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonSFreitas&theme=blue-green&show_icons=true&show_icons=true&theme=merko&count_private=true" />
+<img height = "200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdsonSFreitas&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832" />
 </div>
