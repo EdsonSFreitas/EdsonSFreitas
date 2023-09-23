@@ -7,14 +7,13 @@
   </a>
 </div>
 
-Sou Desenvolvedor Back-End Java pós migrar dá área de infra na qual eu atuava como Analista de Suporte Sênior por mais de 5 anos.
+Sou Desenvolvedor Back-End Java após migrar dá área de infra na qual eu atuava como Analista de Suporte Sênior por mais de 5 anos, no qual realizei atividades pró-ativas que geraram redução de custos com diversos contratos de suporte, nessa jornada criei processos internos, implementei Monitoramento de ativos diversos, Inventário de Servidores e sistema de Service Desk, todos com grande impacto positivo e em uso até o momento.
 
-- ❤ Tenho o hábito de estudar e aplicar novas tecnologias e me considero autodidata na área de TI.
-- 💙 Com dedicação e comprometimento, concluí diversos cursos na Udemy, Alura, DIO e outras plataformas de ensino online, nos quais adquiri conhecimentos sólidos em desenvolvimento back-end. Durante esses cursos, pratiquei rotinas comuns de um desenvolvedor, como a criação de APIs RESTful, integração com bancos de dados relacionais e não relacionais, trabalhei com frameworks Spring, Hibernate com JPA, Docker, versionamento com git, Kubernetes etc. Com esses conhecimentos, estou preparado para contribuir em projetos desafiadores e em constante evolução.
--  Estou focado em melhorar meus conhecimentos em back-end com stack Java, APIs e outros conhecimentos comuns para desenvolvedores dessa área. 
+- Tenho conhecimentos sólidos em desenvolvimento back-end com foco em Java e estou criando portifólio com o que venho praticando como criação de APIs RESTful, integração com bancos de dados relacionais e não relacionais, trabalhei com frameworks Spring, Hibernate com JPA, Docker, versionamento com git, Kubernetes etc. Com esses conhecimentos, estou seguro em contribuir com projetos desafiadores e em constante evolução. Estou focado em melhorar meus conhecimentos em back-end com stack Java, APIs e outros conhecimentos comuns para desenvolvedores dessa área. 
 - 👩‍💻 Na área de DevOps, já implementei vários sistemas durante minha experiência como Sênior em Infraestrutura.
-- Uso Linux no meu Desktop há mais de 20 anos e implantei centenas de servidores com Linux na minha jornada profissional.
+- 💙 Uso Linux no meu Desktop há mais de 20 anos e implantei centenas de servidores com Linux na minha jornada profissional.
 - Tenho conhecimento nível intermediário do idioma Inglês e sou capaz de manter uma conversa nesse idioma mas meu ponto forte é leitura e escrita.
+- Tenho o hábito de estudar e aplicar novas tecnologias e me considero autodidata na área de TI.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
