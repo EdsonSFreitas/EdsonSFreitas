@@ -44,7 +44,7 @@ Sou Desenvolvedor Back-End Java após migrar dá área de infra na qual eu atuav
 
 <div align = "left">
 <img height = "180em" src="https://github-readme-stats-edsonsfreitas.vercel.app/api?username=EdsonSFreitas&show_icons=true&show_icons=true&theme=merko&count_private=true" />
-<img height = "180em" src="https://github-readme-stats-edsonsfreitas.vercel.app/api/top-langs/?username=EdsonSFreitas&line_height=10&layout=compact&hide_title=false&count_private=true&langs_count=8&show_icons=true&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832" />
+<img height = "180em" src="https://github-readme-stats-edsonsfreitas.vercel.app/api/top-langs/?username=EdsonSFreitas&line_height=10&theme=merko&layout=compact&hide_title=false&count_private=true&langs_count=8&show_icons=true" />
 
   
 </div>
