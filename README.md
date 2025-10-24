@@ -42,11 +42,10 @@ Fiz transição de carreira da área de infra na qual eu atuava como Analista de
 
 ## 📊 &nbsp;Stats
 
-<h3 align="left">GitHub Stats</h3>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonSFreitas&layout=compact&langs_count=7&theme=radical" width="350" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=EdsonSFreitas&theme=radical" width="350" height="150"/>
+</div>
 
-<div align = "left">
-<img height = "180em" src="https://github-readme-stats-edsonsfreitas.vercel.app/api?username=EdsonSFreitas&show_icons=true&show_icons=true&theme=merko&count_private=true" />
-<img height = "180em" src="https://github-readme-stats-edsonsfreitas.vercel.app/api/top-langs/?username=EdsonSFreitas&line_height=10&theme=merko&layout=compact&hide_title=false&count_private=true&langs_count=8&show_icons=true" />
 
-  
 </div>
