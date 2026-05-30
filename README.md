@@ -7,9 +7,9 @@
   </a>
 </div>
 
-Sou Desenvolvedor Back-End Java atuando com mobile backend, BFF com micro serviços,  mensageria, telemetria, Spring Framework.
+Sou Desenvolvedor Back-End Java atuando com mobile backend, BFF com micro serviços,  mensageria, telemetria e demais termos já conhecidos da área.
 
-- Tenho conhecimentos sólidos em desenvolvimento back-end com foco em Java e Kotlin (back-end e app Android), estou criando portifólio com o que venho praticando como criação e consumo de APIs RESTful, integração com bancos de dados relacionais e não relacionais, trabalhei com frameworks Spring, Hibernate com JPA, Docker, versionamento com git, metodoligia ágil etc. Com esses conhecimentos, estou seguro em contribuir com projetos desafiadores e em constante evolução. Estou focado em melhorar meus conhecimentos em back-end com stack Java, APIs e outros conhecimentos comuns para desenvolvedores dessa área. 
+- Tenho conhecimentos sólidos em desenvolvimento back-end com foco em Java, criação de APIs RESTful, integração com bancos de dados relacionais e não relacionais, trabalho com frameworks Spring, Hibernate com JPA, Docker, versionamento com git, metodoligia ágil etc. Com esses conhecimentos, estou seguro em contribuir com projetos desafiadores e em constante evolução. Estou focado em melhorar meus conhecimentos em back-end com stack Java, APIs e outros conhecimentos comuns para desenvolvedores dessa área. 
 - 👩‍💻 Na área de DevOps, já implementei vários sistemas durante minha experiência como Sênior em Infraestrutura.
 - 💙 Uso Linux no meu Desktop há mais de 20 anos e implantei centenas de servidores com Linux na minha jornada profissional.
 - Tenho conhecimento nível intermediário do idioma Inglês e sou capaz de manter uma conversa nesse idioma mas meu ponto forte é leitura.
@@ -39,13 +39,6 @@ Fiz transição de carreira da área de infra na qual eu atuava como Analista de
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 &nbsp;Stats
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonSFreitas&layout=compact&langs_count=7&theme=radical" width="350" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=EdsonSFreitas&theme=radical" width="350" height="150"/>
-</div>
 
 
 </div>
